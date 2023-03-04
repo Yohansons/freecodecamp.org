@@ -1,0 +1,5 @@
+// Basic JavaScript
+// Add Two Numbers with JavaScript Добавить два числа с помощью JavaScript
+
+// const sum = 10 + 0;
+const sum = 10 + 10;
