@@ -1,0 +1,9 @@
+Экранирование буквенных кавычек в строках
+
+/*
+Используйте обратную косую черту , чтобы присвоить строку переменной myStr, 
+чтобы, если вы выведете ее на консоль, вы увидели:
+I am a "double quoted" string inside "double quotes".
+*/
+
+const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; // Change this line
