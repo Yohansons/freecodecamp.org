@@ -11,4 +11,5 @@ ourStrтеперь имеет значение строки I come first. I come
 
 Создайте myStrнесколько строк, соединив эти две строки: This is the first sentence.и This is the second sentence.используя +=оператор. Используйте +=оператор аналогично тому, как он показан в примере, и убедитесь, что между двумя строками есть пробел. Начните с присвоения первой строки myStr, затем добавьте вторую строку.
 */
-let myStr;
+let myStr = "This is the first sentence. ";
+myStr += "This is the second sentence."
