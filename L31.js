@@ -17,3 +17,5 @@ ourStrбудет иметь значение freeCodeCamp is awesome!.
 const someAdjective = "intrigues";
 let myStr = "Learning to code is ";
 myStr += someAdjective
+
+console.log(myStr)
